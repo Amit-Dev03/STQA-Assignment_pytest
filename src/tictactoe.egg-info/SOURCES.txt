@@ -1,0 +1,6 @@
+setup.py
+src/tictactoe.egg-info/PKG-INFO
+src/tictactoe.egg-info/SOURCES.txt
+src/tictactoe.egg-info/dependency_links.txt
+src/tictactoe.egg-info/top_level.txt
+tests/test_tic_tac_toe.py
