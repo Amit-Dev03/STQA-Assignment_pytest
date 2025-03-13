@@ -1,5 +1,6 @@
 from game_logic import TicTacToe
 import pytest
+import pytest_incremental
 
 #Creating a Game Instance for Testing
 @pytest.fixture
